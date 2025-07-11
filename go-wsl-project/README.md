@@ -61,3 +61,4 @@ notes
 feedback: 
 tg @t7i3f 
 mail hhhhhhh707@mail.ru
+<img width="1680" height="475" alt="image" src="https://github.com/user-attachments/assets/9db63a54-1717-46d2-8242-19e2f8bba98b" />
